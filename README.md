@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Srinivas</h1>
-<h4 align="center">An enthusiastic and motivated Bachelor's degree holder with more than 2 years and 2 months of experience as an <b>SAP MII Developer</b>.</h4>
+<h4 align="center">An enthusiastic and motivated Bachelor's degree holder with more than two years and three months of experience as an <b>SAP MII Developer</b>.</h4>
 <img align="right" alt="coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 <br>
 
